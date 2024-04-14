@@ -1,22 +1,29 @@
 h1{
     align-items: center;
     text-align: center;
+    font-family: monospace;
+    color:navy;
+    font-size: 250%;
 }
 button{
-    width: 50px;
+    width: 70px;
     height: 50px;
     margin: 2px;
-    border: 2px solid black;
-    border-radius: 10px;
+    border: 2px solid skyblue;
+    border-radius: 20px;
 }
 div{
     text-align: center;
     padding: 2px;
 }
 .input{
-    width: 210px;
+    width: 320px;
     height: 30px;
-    border: 2px solid black;
+    border: 2px solid skyblue;
     border-radius: 10px;
     font-size: 20px;
+}
+body{
+    background-color: black;
+    background-image: url(https://i.pinimg.com/originals/18/ae/d9/18aed9f1517a51eea30c398572ab8f11.jpg);
 }
